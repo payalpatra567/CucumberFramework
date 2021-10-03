@@ -1,0 +1,43 @@
+2021-10-03 22:10:241  INFO  LogFilesUtil:56 - driver is setup 
+2021-10-03 22:10:756  INFO  LogFilesUtil:64 - URL is opened 
+2021-10-03 22:10:178  INFO  LogFilesUtil:56 - driver is setup 
+2021-10-03 22:10:583  INFO  LogFilesUtil:64 - URL is opened 
+2021-10-03 22:10:162  INFO  LogFilesUtil:56 - driver is setup 
+2021-10-03 22:10:817  INFO  LogFilesUtil:64 - URL is opened 
+2021-10-03 22:10:651  INFO  LogFilesUtil:56 - driver is setup 
+2021-10-03 22:10:78  INFO  LogFilesUtil:64 - URL is opened 
+2021-10-03 22:10:360  INFO  LogFilesUtil:121 - enter the send keys and it show the in search box
+2021-10-03 22:10:384  INFO  LogFilesUtil:129 - here show the available link present in the page
+2021-10-03 22:10:908  INFO  LogFilesUtil:56 - driver is setup 
+2021-10-03 22:10:405  INFO  LogFilesUtil:64 - URL is opened 
+2021-10-03 22:10:690  INFO  LogFilesUtil:154 - enter the send keys value
+2021-10-03 22:10:468  INFO  LogFilesUtil:157 - next it shows the which is customer enter
+2021-10-03 22:10:813  INFO  LogFilesUtil:56 - driver is setup 
+2021-10-03 22:10:410  INFO  LogFilesUtil:64 - URL is opened 
+2021-10-03 22:10:492  INFO  LogFilesUtil:164 - shows the giftcard page
+2021-10-03 22:10:990  INFO  LogFilesUtil:198 - it is  automatically click the wedding button  
+2021-10-03 22:10:992  INFO  LogFilesUtil:171 - click the price
+2021-10-03 22:10:678  INFO  LogFilesUtil:182 - enter the recipient name and email
+2021-10-03 22:10:478  INFO  LogFilesUtil:187 - enter the your name,email,number and message
+2021-10-03 22:10:141  INFO  LogFilesUtil:56 - driver is setup 
+2021-10-03 22:10:595  INFO  LogFilesUtil:64 - URL is opened 
+2021-10-03 22:10:943  INFO  LogFilesUtil:228 - click the trackorder buttom
+2021-10-03 22:10:947  INFO  LogFilesUtil:236 - click the track order it is showing enter the orer number and phone number
+2021-10-03 22:10:266  INFO  LogFilesUtil:245 - click the submit buttom
+2021-10-03 22:10:747  INFO  LogFilesUtil:56 - driver is setup 
+2021-10-03 22:10:93  INFO  LogFilesUtil:64 - URL is opened 
+2021-10-03 22:10:05  INFO  LogFilesUtil:252 - click the customer view
+2021-10-03 22:10:183  INFO  LogFilesUtil:260 - print the customer review
+2021-10-03 22:10:533  INFO  LogFilesUtil:56 - driver is setup 
+2021-10-03 22:10:905  INFO  LogFilesUtil:64 - URL is opened 
+2021-10-03 22:10:580  INFO  LogFilesUtil:275 - it is check the assert is correct or not
+2021-10-03 22:10:64  INFO  LogFilesUtil:278 - it is check the assert is correct or not
+2021-10-03 22:10:143  INFO  LogFilesUtil:281 - it is check the assert is correct or not
+2021-10-03 22:10:75  INFO  LogFilesUtil:56 - driver is setup 
+2021-10-03 22:10:422  INFO  LogFilesUtil:64 - URL is opened 
+2021-10-03 22:10:364  INFO  LogFilesUtil:291 - click the store it show all available furniture
+2021-10-03 22:10:844  INFO  LogFilesUtil:300 - it is check the assert is correct or not
+2021-10-03 22:10:228  INFO  LogFilesUtil:56 - driver is setup 
+2021-10-03 22:10:551  INFO  LogFilesUtil:64 - URL is opened 
+2021-10-03 22:10:485  INFO  LogFilesUtil:56 - driver is setup 
+2021-10-03 22:10:295  INFO  LogFilesUtil:64 - URL is opened 
